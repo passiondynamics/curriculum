@@ -9,3 +9,6 @@ Schedule:
 - Exercise 1:
   - [exercise_1.md](exercise_1.md)
   - [exercise_1.py](exercise_1.py)
+
+Notes:
+- heavy practice on loops
