@@ -37,12 +37,12 @@ Your end goal: how much of the base raw materials do you need to make ^? Let's a
 
 2. What are the rate of each conversion? In other words, how much of each do we need to make the next? (one at a time!)
     - Stairs:
-        - # ? > # ? (we need this number of ? to make this number of ?)
-        - # ? > # stairs (we need this number of ? to make this number of stairs)
+        - \# ? > # ? (we need this number of ? to make this number of ?)
+        - \# ? > # stairs (we need this number of ? to make this number of stairs)
     - ...
     - Bookshelves:
-        - # ? > # ? (we need this number of ? to make this number of ?)
-        - # ? AND # ? > # bookshelves (we need this number of ? AND this number of ? to make this number of bookshelves)
+        - \# ? > # ? (we need this number of ? to make this number of ?)
+        - \# ? AND # ? > # bookshelves (we need this number of ? AND this number of ? to make this number of bookshelves)
 
 3. Some of these materials are overlapping right? Would it make sense to do this one at a time, as in figure out how
    much of a material for each recipe first, before combining the amounts for the overlapping ones?
